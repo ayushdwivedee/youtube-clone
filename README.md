@@ -1,6 +1,7 @@
  # YouTube Clone Project
 
-![YouTube Clone](https://github.com/ayushdwivedee/youtube-clone/assets/140685778/2f1e62b3-ed28-4740-a324-9bceb7dde4fb)
+![YouTube Clone](https://github.com/ayushdwivedee/youtube-clone/assets/140685778/c7c588bd-3e6b-4f74-947b-3583e7baf631)
+ 
 
 Welcome to our YouTube clone project! This project aims to replicate the core functionalities of YouTube using React and Tailwind CSS. Below are the key features and responsibilities:
 
@@ -21,11 +22,14 @@ Welcome to our YouTube clone project! This project aims to replicate the core fu
 3. Start the development server with `npm run dev`.
 
 ## Screenshots
-![Home Page](https://github.com/ayushdwivedee/youtube-clone/assets/140685778/2f1e62b3-ed28-4740-a324-9bceb7dde4fb)
-
- ![search result](https://github.com/ayushdwivedee/youtube-clone/assets/140685778/64f0b525-5a39-477e-9af7-e15341b8be70)
  
-![Suggested video and video detail page](https://github.com/ayushdwivedee/youtube-clone/assets/140685778/0889b162-e791-4328-a2cc-4a22b0b2e85f)
+![Home page](https://github.com/ayushdwivedee/youtube-clone/assets/140685778/8fde9c8d-f9cb-4c10-b144-ef21b9f92163)
+
+![search result](https://github.com/ayushdwivedee/youtube-clone/assets/140685778/0aa6a0e8-4a7a-4935-81f2-8f4afb69fe54)
+
+![Suggested video and video detail page](https://github.com/ayushdwivedee/youtube-clone/assets/140685778/1d1a9fb1-8fcd-4a59-9d58-243e40bae7db)
+
+ 
 
  
 
